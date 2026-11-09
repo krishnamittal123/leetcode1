@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krishnamittal123/leetcode1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/krishnamittal123/leetcode1/tree/master/0035-search-insert-position) |
 | [0152-maximum-product-subarray](https://github.com/krishnamittal123/leetcode1/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/krishnamittal123/leetcode1/tree/master/0493-reverse-pairs) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krishnamittal123/leetcode1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/krishnamittal123/leetcode1/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/krishnamittal123/leetcode1/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/krishnamittal123/leetcode1/tree/master/0704-binary-search) |
