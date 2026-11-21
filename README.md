@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/krishnamittal123/leetcode1/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/krishnamittal123/leetcode1/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/krishnamittal123/leetcode1/tree/master/1539-kth-missing-positive-number) |
+| [2643-row-with-maximum-ones](https://github.com/krishnamittal123/leetcode1/tree/master/2643-row-with-maximum-ones) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/krishnamittal123/leetcode1/tree/master/0410-split-array-largest-sum) |
+## Matrix
+|  |
+| ------- |
+| [2643-row-with-maximum-ones](https://github.com/krishnamittal123/leetcode1/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
