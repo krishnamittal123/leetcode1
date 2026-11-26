@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/krishnamittal123/leetcode1/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/krishnamittal123/leetcode1/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/krishnamittal123/leetcode1/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/krishnamittal123/leetcode1/tree/master/0242-valid-anagram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/krishnamittal123/leetcode1/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
