@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/krishnamittal123/leetcode1/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/krishnamittal123/leetcode1/tree/master/0242-valid-anagram) |
 | [1108-defanging-an-ip-address](https://github.com/krishnamittal123/leetcode1/tree/master/1108-defanging-an-ip-address) |
 ## Sorting
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/krishnamittal123/leetcode1/tree/master/0338-counting-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/krishnamittal123/leetcode1/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
